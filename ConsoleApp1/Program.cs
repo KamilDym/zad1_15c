@@ -10,3 +10,8 @@ static double staticaverage(int[] args)
 {
     return args.Average();
 }
+
+static double FeatureMax(int[] args)
+{
+    return args.Max();
+}
