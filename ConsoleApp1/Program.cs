@@ -6,9 +6,9 @@ Console.WriteLine("Hello, World 0-0!");
 Console.WriteLine("Hello, World ^_^!");
 Console.WriteLine("Hello, World 12345!");
 
-static double staticaverage(int[] args)
+static double staticaverage(int[] argss)
 {
-    return args.Average();
+    return argss.Average();
 }
 
 static double FeatureMax(int[] args)
